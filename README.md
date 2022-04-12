@@ -4,7 +4,12 @@ Social distancing is deliberately increasing the physical space between people t
 
 Required Libraries:
   Numpy
+  
+  
   Open CV
+  
+  
+  
   centroidtracker
   
  Using the model : MobileNetSSD
